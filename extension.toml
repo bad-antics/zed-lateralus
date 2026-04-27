@@ -8,4 +8,4 @@ repository = "https://github.com/bad-antics/zed-lateralus"
 
 [grammars.lateralus]
 repository = "https://github.com/bad-antics/tree-sitter-lateralus"
-commit = "HEAD"
+commit = "a213bc4955338a4c6aa4a1fefde1f9b7ceea6437"
