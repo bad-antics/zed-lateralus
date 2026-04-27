@@ -1,0 +1,11 @@
+id = "lateralus"
+name = "Lateralus"
+description = "Lateralus systems language support for Zed (.ltl)"
+version = "0.1.0"
+schema_version = 1
+authors = ["bad-antics"]
+repository = "https://github.com/bad-antics/zed-lateralus"
+
+[grammars.lateralus]
+repository = "https://github.com/bad-antics/tree-sitter-lateralus"
+commit = "HEAD"
